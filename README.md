@@ -30,3 +30,7 @@ Follow these instructions to **run the project locally** on your machine.
 ```bash
 git clone https://github.com/darshansurampally/REACT-FOOD-DELIVERY.git
 cd REACT-FOOD-DELIVERY
+
+
+<img width="1895" height="1027" alt="image" src="https://github.com/user-attachments/assets/1c1381ad-24d5-40b7-a4e0-eb42ca6fd756" />
+
